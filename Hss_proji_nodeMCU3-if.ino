@@ -1,10 +1,4 @@
-//The Home Security System
-//Team Members
-//  Baranitharan B
-//  Cibi P
-//  Niyas Khan M
-//Team Guide
-//  Dr.charles.A(AP/ECE)
+
 #include<ThingSpeak.h>
 #include<ESP8266WiFi.h>
 #include<ESP8266WebServer.h>
